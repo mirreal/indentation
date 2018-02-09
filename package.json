@@ -1,0 +1,30 @@
+{
+  "name": "indentation",
+  "version": "0.1.0",
+  "description": "convert indentation to space",
+  "bin": {
+    "indentation": "bin/indentation.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mirreal/indentation.git"
+  },
+  "keywords": [
+    "indentation"
+  ],
+  "author": "mirreal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mirreal/indentation/issues"
+  },
+  "homepage": "https://github.com/mirreal/indentation#readme",
+  "devDependencies": {
+    "eslint": "^4.17.0",
+    "eslint-config-link-base": "^0.1.2",
+    "eslint-plugin-import": "^2.8.0"
+  }
+}
